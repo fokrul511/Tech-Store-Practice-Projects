@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:tech_store/view/screen/desh_bord.dart';
 import 'package:tech_store/view/screen/splash_screen.dart';
 
 void main() {
@@ -11,9 +10,9 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: DeshBordScreen(),
+      home: SplashScreen(),
     );
   }
 }
