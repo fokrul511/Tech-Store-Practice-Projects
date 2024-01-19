@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-
+![Tech Store apps](https://github.com/fokrul511/Tech-Store-Practice-Projects/blob/main/preview%20image/priview.png)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
